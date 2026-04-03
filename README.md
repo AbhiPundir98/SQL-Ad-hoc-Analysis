@@ -31,9 +31,3 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 1. **SQL Queries:** Contains the Ad hoc requests from AtliQ's leadership. [Ad hoc Requests.pdf](https://github.com/AbhiPundir98/SQL-Ad-hoc-Analysis/blob/main/SQL%20Queries_Adhoc%20Analysis.pdf)
 2. **SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL_QUERIES.pdf](https://github.com/AbhiPundir98/SQL-Ad-hoc-Analysis/blob/main/SQL%20Queries_Adhoc%20Analysis.pdf)
 3. **PPT report:**  Contains the SQL queries used for the project, along with the outputs in MySQL DB. [Analysis_Report.pptx](https://github.com/AbhiPundir98/SQL-Ad-hoc-Analysis/blob/main/Analysis_Report.pdf)
-
-
-
-### About Codebasics Data Analytics Bootcamp
-
-This project is part of the Data Analytics Bootcamp curriculum at Codebasics. The bootcamp equips participants with essential skills and techniques in data analytics, covering various domains and real-world applications.
