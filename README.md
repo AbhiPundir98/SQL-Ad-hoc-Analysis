@@ -22,8 +22,6 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 3. Rise in "Accessories" Segment: The "Accessories" segment witnessed a significant increase in product counts, with 34 more products recorded in 2021 compared to 2020.
 4. Leading Retailer - "Flipkart": Among retailers, "Flipkart" stands out with the highest average pre-invoice discount percentage, recorded at 30.83%.
 5. Improved Sales Performance: Fiscal year 2020's low sales performance in March and April experienced notable improvement in fiscal year 2021.
-6. Key Sales Channel - "Retailer": The "Retailer" channel emerges as the primary contributor, accounting for 73.22% of gross sales, thus serving as the key driver.
-
 
 
 ### Repository Contents
