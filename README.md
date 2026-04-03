@@ -11,7 +11,7 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 
 ### Project Objectives
 
-1. Utilize SQL queries to address ten specific ad hoc requests related to Atliq's business performance data.
+1. Utilize SQL queries to address ten specific ad hoc requests related to AtliQ's business performance data.
 2. Analyze consumer goods sales, inventory, and other performance metrics.
 3. Extract meaningful insights to support strategic decision-making within the consumer goods domain.
 
